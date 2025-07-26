@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* M.S. in Cybersecurity, Università "La Sapienza" di Roma, 2027 (expected)
-* B.S. in Computer Science, Università "La Sapienza" di Roma, 2025
+* M.Sc. in Cybersecurity, Università "La Sapienza" di Roma, expected 2027
+* B.Sc. in Computer Science, Università "La Sapienza" di Roma, 2025
